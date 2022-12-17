@@ -1,0 +1,24 @@
+[submodule "DoCIS2.java"]
+	path = DoCIS2.java
+	url = https://github.com/vvagap/DoCIS2.java.git
+[submodule "DoCIS2.xml"]
+	path = DoCIS2.xml
+	url = https://github.com/vvagap/DoCIS2.xml.git
+[submodule "DoCIS3"]
+	path = DoCIS3
+	url = https://github.com/vvagap/DoCIS3.git
+[submodule "DoCIS4"]
+	path = DoCIS4
+	url = https://github.com/vvagap/DoCIS4.git
+[submodule "DoCIS5"]
+	path = DoCIS5
+	url = https://github.com/vvagap/DoCIS5.git
+[submodule "DoCIS6"]
+	path = DoCIS6
+	url = https://github.com/vvagap/DoCIS6.git
+[submodule "DoCIS7"]
+	path = DoCIS7
+	url = https://github.com/vvagap/DoCIS7.git
+[submodule "DoCIS8"]
+	path = DoCIS8
+	url = https://github.com/vvagap/DoCIS8.git
